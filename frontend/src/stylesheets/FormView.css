@@ -1,0 +1,25 @@
+.form-view > label {
+  padding: 0px 0px 10px;
+  display: flex;
+  flex: 1;
+  align-self: center;
+}
+.form-view > label > input{
+  width: 80%;
+  margin-right: 0;
+  min-height: 25px;
+  
+}
+
+#add-form {
+  flex: 1;
+  align-self: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.title{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 200;
+}

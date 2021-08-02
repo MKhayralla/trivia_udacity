@@ -1,0 +1,12 @@
+.App-header {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    align-content: center;
+    height: 20px;
+    background-color: blue;
+}
+.App-header > h2 {
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
